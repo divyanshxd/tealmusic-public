@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/teal-discord/tealmusic-public">
-    <img src="https://cdn.discordapp.com/avatars/972795104525975622/72cf9c6425e087826f5e6f77053cdc76.webp?size=4096" alt="moebot" width="200" height="200">
+    <img src="https://cdn.discordapp.com/avatars/972795104525975622/72cf9c6425e087826f5e6f77053cdc76.webp?size=4096" alt="Teal Music" width="200" height="200">
   </a>
 
   <h3 align="center">Teal Music</h3>
